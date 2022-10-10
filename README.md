@@ -10,8 +10,7 @@ Foi disponibilizado um link no <strong>Figma</strong> onde nosso objetivo era re
 
 Link do desafio:  https://efficient-sloth-d85.notion.site/Criando-formul-rios-462826c68ea54d61b1eff955158d1a6d
 
-Link do projeto: jonatank28.github.io/Criando-formul-rios/
-
+Link do projeto: https://jonatank28.github.io/Criando-Formularios/
 ## ⚙️ Tecnologias utilizadas
 
 - HTML 
